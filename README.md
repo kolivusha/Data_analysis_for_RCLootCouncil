@@ -1,5 +1,6 @@
 # Data_analysis_for_RCLootCouncil
 Jupyter notebook to analyze RCLootCouncil history. Also takes in attendance information from warcraftlogs.com
+
 Step plot for each player:
 ![screenshot](https://github.com/kolivusha/Data_analysis_for_RCLootCouncil/blob/main/Screenshot%202023-11-08%20142100.png?raw=true)
 Download and checkout the html file [here](https://github.com/kolivusha/Data_analysis_for_RCLootCouncil/blob/0e521af318bb1a92f78f56bcfc3ca9b8cc95fc21/Cumulative%20Count%20of%20Players%20awarded%20Full%20BiS%20Over%20Time%2006-11-2023.html) to see the dynamic chart in action
