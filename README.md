@@ -10,8 +10,8 @@ Bar blots:
 
 # Usage:
 make a usage for readme page on github for jupiter notebook, 
-1) save import string of history from RC loot councill (/RC history) as a txt
+1) save import string of history from RC loot councill (/RC history) as a csv
 2) export attandance from wowlogs
-3) change the path in the jupiter notebook to those file
+3) change the paths in the jupiter notebook to those files
 4) run all cells
 5) modify to your pleasure
